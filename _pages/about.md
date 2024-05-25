@@ -7,25 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Simon Fraser University's Engineering Science (ENSC) department, with a profound passion for research in computer vision and deep learning. The potential of these technologies to revolutionize aspects of our daily lives, particularly in areas like autonomous driving, has always fascinated me. This fascination has shaped my career goal: to become a leading researcher in computer vision and contribute to technological advancements for current and future generations.
+I am currently a Ph.D. student at the GrUVi lab at Simon Fraser University (SFU), where I am supervised by Andrea Tagliasacchi. I completed my bachelor's degree at Amirkabir University of Technology and my master's degree at the University of Tehran, both in Electrical Engineering.
 
-Since 2016, my academic path has evolved significantly, beginning with exploring driver consciousness using EEG signals, advancing to the development of hand gesture recognition for computer mouse control, and then delving into the intersections of information theory and deep learning. This journey has been centered around the development of learned image codecs for human and machine. This area of research is especially vital in fields like autonomous driving, as it ensures real-time and accurate environmental perception and decision-making, significantly enhancing both performance and reliability on the roads.
-
-My key research interests include:
-
-* Computer Vision
-* Deep Learning
-* Learned Image and Video Compression
+My research focuses on 3D reconstruction and novel view synthesis, particularly in the fields of computer vision and deep learning. Recent advancements in Neural Radiance Fields (NeRF) and 3D Gaussian Splatting have made it possible to create highly realistic 3D models and novel viewpoints from limited data. I am especially interested in refining these techniques and applying them to real-world scenarios.
 
 Notable projects to which I have contributed or led:
 
+* Evaluating Alternatives to SFM Point Cloud Initialization for Gaussian Splatting
 * TensoRF Re-implementation
 * Base Layer Efficiency in Scalable Human-Machine Coding
 * Rate-Distortion Theory in Coding for Machines and its Applications
 * VVC+M: Plug and Play Scalable Image Coding for Humans and Machines
 * Control of Computer Pointer Using Hand Gesture Recognition in Motion Pictures
 
-Recently, my focus has shifted towards 3D computer vision, specifically in the realm of NeRF models for 3D reconstruction and novel-view synthesis. This pivot marks a significant and exciting new chapter in my research career.
-
-Outside the lab, I engage in various hobbies to maintain a balanced lifestyle. Regular workouts at the gym, a keen interest in puzzles and board games, along with a fondness for crime movies and series, are among my favorite leisure activities.
-
+Outside the lab, I enjoy a variety of hobbies to maintain a balanced lifestyle. I regularly work out at the gym and have a keen interest in jigsaw puzzles and board games. I also enjoy watching crime movies and series; they are some of my favorite ways to detach from boredom.
