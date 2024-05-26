@@ -5,8 +5,13 @@ permalink: /education/
 author_profile: true
 ---
 
+* **Ph.D. in Computing Science (CS)**\
+  **Simon Fraser University** | <span style="color:grey;">2024 - present</span>\
+  **Research Focus**: 3D Reconstruction, Scalable Image Compression for Humans and Machines
+  **Courses**: Computer Vision, Deep Learning Systems, Linear System Theory, Stochastic Systems, Information Theory, Multimedia Communications, Digital Image Processing
+  
 * **Ph.D. in Engineering Science (ENSC)**\
-  **Simon Fraser University** | <span style="color:grey;">2021 - 2025 (expected)</span>\
+  **Simon Fraser University** | <span style="color:grey;">2021 - 2023</span>\
   **Research Focus**: 3D reconstruction, Scalable Image Compression for Humans and Machines
   **Courses**: Computer Vision, Deep Learning Systems, Linear System Theory, Stochastic Systems, Information Theory, Multimedia Communications, Digital Image Processing
 
