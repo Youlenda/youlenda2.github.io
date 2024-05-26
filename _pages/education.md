@@ -7,8 +7,8 @@ author_profile: true
 
 * **Ph.D. in Computing Science (CS)**\
   **Simon Fraser University** | <span style="color:grey;">2024 - present</span>\
-  **Research Focus**: 3D Reconstruction, Scalable Image Compression for Humans and Machines
-  **Courses**: Computer Vision, Deep Learning Systems, Linear System Theory, Stochastic Systems, Information Theory, Multimedia Communications, Digital Image Processing
+  **Research Focus**: 3D Reconstruction,Novel View Synthesis
+  **Courses**: 3D Vision, Computer Vision
   
 * **Ph.D. in Engineering Science (ENSC)**\
   **Simon Fraser University** | <span style="color:grey;">2021 - 2023</span>\
