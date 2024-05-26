@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-* **Evaluating Alternatives to SFM Point Cloud Initialization for Gaussian Splatting**[[arXiv]](https://arxiv.org/pdf/2404.12547)\
+* **Evaluating Alternatives to SFM Point Cloud Initialization for Gaussian Splatting** [[arXiv]](https://arxiv.org/pdf/2404.12547)\
 3D Gaussian Splatting has recently been embraced as a versatile and effective method for scene reconstruction and novel view synthesis, owing to its high-quality results and compatibility with hardware rasterization. Despite its advantages, Gaussian Splatting's reliance on high-quality point cloud initialization by Structure-from-Motion (SFM) algorithms is a significant limitation to be overcome. To this end, we investigate various initialization strategies for Gaussian Splatting and delve into how volumetric reconstructions from Neural Radiance Fields (NeRF) can be utilized to bypass the dependency on SFM data. Our findings demonstrate that random initialization can perform much better if carefully designed and that by employing a combination of improved initialization strategies and structure distillation from low-cost NeRF models, it is possible to achieve equivalent results, or at times even superior, to those obtained from SFM initialization.
 
 * **TensoRF Re-implementation**\
