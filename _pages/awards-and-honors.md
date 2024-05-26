@@ -5,7 +5,7 @@ permalink: /awards-and-honors/
 author_profile: true
 ---
 
-* **Computer Science Graduate Fellowship (CMPT GF)** from Computting Science Department (CMPT), Summer 2024
+* **Computer Science Graduate Fellowship (CMPT GF)** from the Computting Science Department (CMPT), Summer 2024
 
 * **Graduate Fellowship (GF)** from Simon Fraser University (SFU), Summer 2024
 
