@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * **Evaluating Alternatives to SFM Point Cloud Initialization for Gaussian Splatting** [[PDF]](https://arxiv.org/pdf/2404.12547))\
-Yalda Foroutan, Daniel Rebain, Kwang Moo Yi, Andrea Tagliasacchi, Submitted in ___ 2024.
+Yalda Foroutan, Daniel Rebain, Kwang Moo Yi, Andrea Tagliasacchi, Submitted, 2024.
 
 * **Base Layer Efficiency in Scalable Human-Machine Coding** [[PDF]](https://arxiv.org/pdf/2307.02430.pdf)\
 Yalda Foroutan, Alon Harell, Anderson de Andrade, Ivan V. Bajić, Accepted by ICIP 2023.
