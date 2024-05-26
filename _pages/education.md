@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 * **Ph.D. in Computing Science (CS)**\
-  **Simon Fraser University** | <span style="color:grey;">2024 - present</span>\
-  **Research Focus**: 3D Reconstruction,Novel View Synthesis
+  **Simon Fraser University** | <span style="color:grey;">2024 - Present</span>\
+  **Research Focus**: 3D Reconstruction, Novel View Synthesis\
   **Courses**: 3D Vision, Computer Vision
   
 * **Ph.D. in Engineering Science (ENSC)**\
   **Simon Fraser University** | <span style="color:grey;">2021 - 2023</span>\
-  **Research Focus**: 3D reconstruction, Scalable Image Compression for Humans and Machines
-  **Courses**: Computer Vision, Deep Learning Systems, Linear System Theory, Stochastic Systems, Information Theory, Multimedia Communications, Digital Image Processing
+  **Research Focus**: Scalable Image Compression for Humans and Machines\
+  **Courses**: Deep Learning Systems, Linear System Theory, Stochastic Systems, Information Theory, Multimedia Communications, Digital Image Processing
 
 * **M.Sc. in Electrical Engineering**\
   **University of Tehran** | <span style="color:grey;">2017 - 2020</span>\
@@ -24,8 +24,7 @@ author_profile: true
   **Amirkabir University of Technology** | <span style="color:grey;">2012 - 2017</span>\
   **Thesis**: Driver’s Consciousness Level Analysis Using EEG Signals
   
-* **Online Courses**\
-  **Coursera**
+* **Online Courses on Coursera**
   * Deep Neural Networks with PyTorch [[Certificate]](https://coursera.org/share/7c0984ec097071fa955eed9b2ca8ffee)
   * Neural Networks and Deep Learning [[Certificate]](https://www.coursera.org/account/accomplishments/verify/RFAWW2FJK9ZC)
   * Improving Deep Neural Networks [[Certificate]](https://www.coursera.org/account/accomplishments/verify/CWEXLEEAWHTH)
