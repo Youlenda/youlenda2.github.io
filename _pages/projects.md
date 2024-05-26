@@ -5,6 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
+* **Evaluating Alternatives to SFM Point Cloud Initialization for Gaussian Splatting**[[arXiv]](https://arxiv.org/pdf/2404.12547)\
+3D Gaussian Splatting has recently been embraced as a versatile and effective method for scene reconstruction and novel view synthesis, owing to its high-quality results and compatibility with hardware rasterization. Despite its advantages, Gaussian Splatting's reliance on high-quality point cloud initialization by Structure-from-Motion (SFM) algorithms is a significant limitation to be overcome. To this end, we investigate various initialization strategies for Gaussian Splatting and delve into how volumetric reconstructions from Neural Radiance Fields (NeRF) can be utilized to bypass the dependency on SFM data. Our findings demonstrate that random initialization can perform much better if carefully designed and that by employing a combination of improved initialization strategies and structure distillation from low-cost NeRF models, it is possible to achieve equivalent results, or at times even superior, to those obtained from SFM initialization.
+
 * **TensoRF Re-implementation**\
 TensoRF introduces a novel way to model and reconstruct radiance fields by factorizing tensors into multiple compact low-rank tensor components. This allows for more efficient scene modeling and realistic rendering of 3D scenes, with advantages like super-fast convergence, a compact memory footprint, and the ability to capture vivid details. By re-implementing the TensorVMSplit-192 model for a lego scene, I was able to achieve a Peak Signal-to-Noise Ratio (PSNR) of 36.49, which exceeds the paper's reported 35.72 for the same scene. This project is the beginning of my exploratory journey into the realm of 3D computer vision and the potential of Neural Radiance Fields (NeRF) as a research direction. 
 
